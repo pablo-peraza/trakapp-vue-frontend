@@ -62,7 +62,7 @@
     "babel-jest": "24.8.0",
     "eslint-plugin-lodash": "2.7.0",
     "eslint-plugin-promise": "4.0.1",
-    "node-sass": "4.9.3",
+    "node-sass": "7.0.0",
     "sass-loader": "7.1.0",
     "vue-template-compiler": "2.5.17"
   }
