@@ -51,11 +51,11 @@
     "weekstart": "1.0.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "3.8.0",
-    "@vue/cli-plugin-eslint": "3.0.3",
+    "@vue/cli-plugin-babel": "5.0.8",
+    "@vue/cli-plugin-eslint": "5.0.8",
     "@vue/cli-plugin-pwa": "3.0.4",
-    "@vue/cli-plugin-unit-jest": "3.8.0",
-    "@vue/cli-service": "3.8.4",
+    "@vue/cli-plugin-unit-jest": "5.0.8",
+    "@vue/cli-service": "5.0.8",
     "@vue/eslint-config-airbnb": "3.0.3",
     "@vue/test-utils": "1.0.0-beta.25",
     "babel-core": "7.0.0-bridge.0",
@@ -63,7 +63,7 @@
     "eslint-plugin-lodash": "2.7.0",
     "eslint-plugin-promise": "4.0.1",
     "node-sass": "4.9.3",
-    "sass-loader": "7.1.0",
+    "sass-loader": "13.2.0",
     "vue-template-compiler": "2.5.17"
   }
 }
